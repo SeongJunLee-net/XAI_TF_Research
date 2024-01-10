@@ -1,0 +1,4 @@
+[XAI_DLinear]
+seq_len = 720
+pred_len = 1
+
