@@ -16,4 +16,5 @@ Experiments using the Benchmark Dataset for Time Series Forecasting, as well as 
 Currently, we have many more progresses, but please understand that we can't share them to write a paper.
 
 Here is a schematic of the previous version.
-![image](https://github.com/SeongJunLee-net/XAI/assets/76996943/11841a08-6398-402c-a8e8-300cac8ddb8a)
+
+![image](https://github.com/SeongJunLee-net/XAI/assets/76996943/04e14900-0f61-42dc-8fa8-af089371ae00)
